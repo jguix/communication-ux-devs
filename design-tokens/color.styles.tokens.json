@@ -1,0 +1,26 @@
+{
+  "Primary": {
+    "$type": "color",
+    "$value": "#2f4ce5"
+  },
+  "Secondary": {
+    "$type": "color",
+    "$value": "#f6f5f5"
+  },
+  "Disabled": {
+    "$type": "color",
+    "$value": "#9b9b9b"
+  },
+  "Primary shade": {
+    "$type": "color",
+    "$value": "#2c45c6"
+  },
+  "Secondary shade": {
+    "$type": "color",
+    "$value": "#d4d4d4"
+  },
+  "Disabled shade": {
+    "$type": "color",
+    "$value": "#6c6c6c"
+  }
+}

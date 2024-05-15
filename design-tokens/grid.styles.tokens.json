@@ -1,0 +1,13 @@
+{
+  "Spacing grid": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "grid",
+        "visible": true,
+        "color": "#ff00001a",
+        "sectionSize": "5px"
+      }
+    ]
+  }
+}
